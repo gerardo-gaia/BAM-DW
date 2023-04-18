@@ -1,0 +1,48 @@
+body {
+    background-color: #E1A966;
+}
+
+.links {
+    background-color: #EF8F6C;
+    height: 2cm;
+    display: flex;
+    align-items: center;
+}
+
+.titulos {
+    color: #2E2D4D;
+    margin-left: 10px;
+    font-size: 0.7cm;
+}
+
+p.text {
+    white-space: pre;
+}
+
+img {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.labels{
+    color: #2E2D4D;
+    font-size: 0.5cm;
+    font-weight: bold;
+}
+
+
+.envio {
+    margin-left: 50px;
+    font-size: 0.5cm;
+    margin-top: 20px;
+}
+
+input[type=text]{
+    width: 97%;
+    margin-top: 10px;
+    font-size: 0.5cm;
+}
+
+
+
