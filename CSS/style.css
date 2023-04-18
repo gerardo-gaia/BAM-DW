@@ -1,5 +1,6 @@
 body {
     background-color: #E1A966;
+    height: auto;
 }
 
 .links {
@@ -44,5 +45,7 @@ input[type=text]{
     font-size: 0.5cm;
 }
 
-
-
+h4{
+    font-size: 1.2cm;
+    color: #2E2D4D;
+}
