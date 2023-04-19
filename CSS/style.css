@@ -49,3 +49,8 @@ h4{
     font-size: 1.2cm;
     color: #2E2D4D;
 }
+
+.fotos{
+    display: flex;
+    align-items: center;
+}
